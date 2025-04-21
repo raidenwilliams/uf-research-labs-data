@@ -33,6 +33,8 @@ You can find all available options [here](https://www.eng.ufl.edu/graduate/curre
 - Electrical & Computer Engineering (ECE): 
   https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/
 
+- Engineering Education:  
+  https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/institute-for-excellence-in-engineering-education/
 
 ## Installation
 
@@ -98,24 +100,24 @@ python script.py [source] --output ./custom/path/output.json
 
 The script extracts the following fields for each project (when available):
 
-| Field | Description | Example |
-|-------|-------------|---------|
-| `project_title` | Title of the research project | "Machine Learning for Signal Processing" |
-| `department` | Department offering the project | "electrical_and_computer_engineering" |
-| `faculty_mentor` | Professor overseeing the project | "Dr. Jane Smith" |
-| `ph.d._student_mentor(s)` | Graduate students mentoring undergrads | "John Doe" |
-| `terms_available` | When the project is offered | "Fall 2023, Spring 2024" |
-| `student_level` | Required student classification | "Junior, Senior" |
-| `prerequisites` | Required courses or skills | "Programming experience, EEL3701" |
-| `credit` | Credit hours offered | "Variable, 1-3 credits" |
-| `stipend` | Payment information if available | "Unpaid" or "$15/hour" |
-| `application_requirements` | What students need to apply | "Resume, transcript, cover letter" |
-| `application_deadline` | When applications are due | "Rolling basis" |
-| `website` | Related project website | "https://project-site.edu" |
-| `project_description` | Detailed information about the project | "This project will explore..." |
-| `contact_email` | Email address for inquiries | "professor@ufl.edu" |
-| `source` | Source URL or file | "https://www.eng.ufl.edu/..." |
-| `project_id` | Unique identifier for each project | "electrical_and_computer_engineering_1" |
+| Field                      | Description                            | Example                                  |
+| -------------------------- | -------------------------------------- | ---------------------------------------- |
+| `project_title`            | Title of the research project          | "Machine Learning for Signal Processing" |
+| `department`               | Department offering the project        | "electrical_and_computer_engineering"    |
+| `faculty_mentor`           | Professor overseeing the project       | "Dr. Jane Smith"                         |
+| `ph.d._student_mentor(s)`  | Graduate students mentoring undergrads | "John Doe"                               |
+| `terms_available`          | When the project is offered            | "Fall 2023, Spring 2024"                 |
+| `student_level`            | Required student classification        | "Junior, Senior"                         |
+| `prerequisites`            | Required courses or skills             | "Programming experience, EEL3701"        |
+| `credit`                   | Credit hours offered                   | "Variable, 1-3 credits"                  |
+| `stipend`                  | Payment information if available       | "Unpaid" or "$15/hour"                   |
+| `application_requirements` | What students need to apply            | "Resume, transcript, cover letter"       |
+| `application_deadline`     | When applications are due              | "Rolling basis"                          |
+| `website`                  | Related project website                | "https://project-site.edu"               |
+| `project_description`      | Detailed information about the project | "This project will explore..."           |
+| `contact_email`            | Email address for inquiries            | "professor@ufl.edu"                      |
+| `source`                   | Source URL or file                     | "https://www.eng.ufl.edu/..."            |
+| `project_id`               | Unique identifier for each project     | "electrical_and_computer_engineering_1"  |
 
 Example JSON entry:
 ```json
