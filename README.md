@@ -76,24 +76,47 @@ You can find all available options [here](https://www.eng.ufl.edu/graduate/curre
 
 ### Basic Usage
 
-To scrape a department page directly from the web:
+To scrape all supported departments and combine results into a single JSON file:
 
 ```bash
-python script.py https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/
+python script.py
+```
+
+This will automatically:
+1. Scrape the CISE, ECE, and Engineering Education department pages
+2. Save individual JSON files for each department
+3. Create a combined JSON file with all projects at `./data/json/all_projects.json`
+
+### Advanced Options
+
+To scrape a specific department page:
+
+```bash
+python script.py --source https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/
 ```
 
 To process a local HTML file:
 
 ```bash
-python script.py ./data/raw_html/ece.html
+python script.py --source ./data/raw_html/ece.html
+```
+
+To explicitly run in batch mode (scraping all departments):
+
+```bash
+python script.py --batch
 ```
 
 ### Output Options
 
-By default, the script saves output to `./data/json/{department}_projects.json`. You can specify a custom output path:
+By default, the script saves:
+- Individual department files: `./data/json/{department}_projects.json`
+- Combined file with all projects: `./data/json/all_projects.json`
+
+You can specify a custom output path for a single source:
 
 ```bash
-python script.py [source] --output ./custom/path/output.json
+python script.py --source [url_or_file] --output ./custom/path/output.json
 ```
 
 ## JSON Data Format
@@ -147,3 +170,12 @@ beautifulsoup4>=4.9.3
 requests>=2.25.1
 argparse>=1.4.0
 ```
+
+## Troubleshooting
+
+If you encounter issues with HTML parsing for certain department pages:
+- Try running the script with a specific department URL
+- Check the console output for specific error messages
+- Some departments may use different HTML structures that require adjustments to the parser
+
+For issues with the Engineering Education page, ensure your internet connection is stable, as this page sometimes has a different structure than the other department pages.

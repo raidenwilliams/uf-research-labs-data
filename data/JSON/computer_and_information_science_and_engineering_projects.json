@@ -72,6 +72,7 @@
     "project_id": "computer_and_information_science_and_engineering_4"
   },
   {
+    "project_title": "Web Development and Server Management",
     "department": "Computer and Information Science and Engineering",
     "faculty_mentor": "Eakta Jain, ejain@cise.ufl.edu",
     "terms_available": "Fall, Spring",
@@ -107,24 +108,6 @@
     "project_id": "computer_and_information_science_and_engineering_6"
   },
   {
-    "project_title": "Modeling Geometry in Virtual RealityDepartment:Computer and Information Science and EngineeringFaculty Mentor:Jorg Peters,jorg@cise.ufl.eduPh.D. Student Mentor(s):n/aTerms Available:Fall, SummerStudent Level:Junior or Senior; 2 students a termPrerequisites:Experience with modeling environments (unity or Blender, etc), some graphics programming experience, enthusiasm for VR, computer vision is a plus.Credit:0-3 credits via EGN 4912Stipend:TBDApplication Requirements:UF unofficial transcripts, faculty interview, short explanation why you are interested and qualified; email all requirements tojorg@cise.comApplication Deadline:RollingWebsite:http://www.cise.ufl.edu/research/SurfLab/Project Description:Move modeling tasks into a head-mounted display environment.",
-    "department": "Computer and Information Science and EngineeringFaculty Mentor:Jorg Peters,jorg@cise.ufl.eduPh.D. Student Mentor(s):n/aTerms Available:Fall, SummerStudent Level:Junior or Senior; 2 students a termPrerequisites:Experience with modeling environments (unity or Blender, etc), some graphics programming experience, enthusiasm for VR, computer vision is a plus.Credit:0-3 credits via EGN 4912Stipend:TBDApplication Requirements:UF unofficial transcripts, faculty interview, short explanation why you are interested and qualified; email all requirements tojorg@cise.comApplication Deadline:RollingWebsite:http://www.cise.ufl.edu/research/SurfLab/Project Description:Move modeling tasks into a head-mounted display environment.",
-    "faculty_mentor": "Jorg Peters, jorg@cise.ufl.edu",
-    "terms_available": "Fall, Summer",
-    "student_level": "Junior or Senior; 2 students a term",
-    "prerequisites": "Experience with modeling environments (unity or Blender, etc), some graphics programming experience, enthusiasm for VR, computer vision is a plus.",
-    "credit": "0-3 credits via EGN 4912",
-    "stipend": "TBD",
-    "application_requirements": "UF unofficial transcripts, faculty interview, short explanation why you are interested and qualified; email all requirements to jorg@cise.com",
-    "application_deadline": "Rolling",
-    "website": "http://www.cise.ufl.edu/research/SurfLab/",
-    "project_description": "Move modeling tasks into a head-mounted display environment.",
-    "ph.d._student_mentor(s)": "n/a",
-    "contact_email": "jorg@cise.ufl.edu",
-    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_7"
-  },
-  {
     "project_title": "Big Data technologies for Actigraphy Problems",
     "department": "Computer and Information Sciences and Engineering",
     "faculty_mentor": "Sanjay Ranka, ranka@cise.ufl.edu",
@@ -140,7 +123,7 @@
     "ph.d._student_mentor(s)": "n/a",
     "contact_email": "ranka@cise.ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_8"
+    "project_id": "computer_and_information_science_and_engineering_7"
   },
   {
     "project_title": "Big Data and Machine Learning",
@@ -158,7 +141,7 @@
     "ph.d._student_mentor(s)": "n/a",
     "contact_email": "ranka@cise.ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_9"
+    "project_id": "computer_and_information_science_and_engineering_8"
   },
   {
     "project_title": "In House Open Source Molecular and Materials Modeling Software",
@@ -175,7 +158,7 @@
     "ph.d._student_mentor(s)": "Rahul Prabhu, rprabhu@ufl.edu",
     "contact_email": "sitharam@cise.ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_10"
+    "project_id": "computer_and_information_science_and_engineering_9"
   },
   {
     "project_title": "Geometry aware Machine Learning for Computer Vision and Medical Imaging",
@@ -193,9 +176,10 @@
     "ph.d._student_mentor(s)": "NA",
     "contact_email": "vemuri@cise.ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_11"
+    "project_id": "computer_and_information_science_and_engineering_10"
   },
   {
+    "project_title": "Demo UI Development for Advanced QA over Knowledge Bases",
     "department": "Computer and Information Science and Engineering",
     "faculty_mentor": "Daisy Zhe Wang, daisyw@cise.ufl.edu",
     "terms_available": "Fall",
@@ -210,9 +194,10 @@
     "ph.d._student_mentor(s)": "Xiaofeng Zhou, xiaofengzhou@ufl.edu; Miguel Rodriguez, miguelrodriguez@ufl.edu",
     "contact_email": "daisyw@cise.ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_12"
+    "project_id": "computer_and_information_science_and_engineering_11"
   },
   {
+    "project_title": "Data Science Application to Law, Ecology and Biomedical Domains",
     "department": "Computer and Information Science and Engineering",
     "faculty_mentor": "Daisy Zhe Wang, daisyw@cise.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -227,9 +212,10 @@
     "ph.d._student_mentor(s)": "n/a",
     "contact_email": "daisyw@cise.ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_13"
+    "project_id": "computer_and_information_science_and_engineering_12"
   },
   {
+    "project_title": "Biomedical Applications of Magnetic Nanoparticles",
     "department": "Biomedical Engineering, Chemical Engineering, Electrical Engineering, Computer Science and Engineering, Materials Science and Engineering, Mechanical Engineering",
     "faculty_mentor": "Carlos Rinaldi-Ramos, carlos.rinaldi@ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -244,7 +230,7 @@
     "ph.d._student_mentor(s)": "varies",
     "contact_email": "carlos.rinaldi@ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_14"
+    "project_id": "computer_and_information_science_and_engineering_13"
   },
   {
     "project_title": "Numerical Computing and Visualization",
@@ -262,7 +248,7 @@
     "ph.d._student_mentor(s)": "varies",
     "contact_email": "jorg@cise.ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_15"
+    "project_id": "computer_and_information_science_and_engineering_14"
   },
   {
     "project_title": "Project #1 \u2013 Spatial Audio Localization Research",
@@ -280,7 +266,7 @@
     "ph.d._student_mentor(s)": "Chenshen (Jason) Wan",
     "contact_email": "drkyla@ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_16"
+    "project_id": "computer_and_information_science_and_engineering_15"
   },
   {
     "project_title": "Project #2 \u2013 Altering Sonic Cues to Improve Real-World Target Detection with 3D Audio",
@@ -298,7 +284,7 @@
     "ph.d._student_mentor(s)": "Armisha Roberts",
     "contact_email": "drkyla@ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_17"
+    "project_id": "computer_and_information_science_and_engineering_16"
   },
   {
     "project_title": "Project #3 \u2013 An Augmented Reality Corsi Block-Tapping Test Framework",
@@ -316,6 +302,6 @@
     "ph.d._student_mentor(s)": "Terek Arce",
     "contact_email": "drkyla@ufl.edu",
     "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
-    "project_id": "computer_and_information_science_and_engineering_18"
+    "project_id": "computer_and_information_science_and_engineering_17"
   }
 ]
